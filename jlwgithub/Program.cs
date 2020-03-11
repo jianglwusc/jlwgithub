@@ -11,6 +11,7 @@ namespace jlwgithub
         private static void Main(string[] args)
         {
             Console.WriteLine("HelloWorld");
+            Console.ReadKey();
         }
     }
 }
